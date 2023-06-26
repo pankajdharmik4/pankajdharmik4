@@ -4,6 +4,9 @@
 - 💞️ I’m looking to collaborate on some cool open source projects.
 - 📫 Reach me on any social media platform.
 
+<br><br><br><br>
+
+
 ### Tools and Technology :
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="35" height="35" />
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="35" height="35" />
