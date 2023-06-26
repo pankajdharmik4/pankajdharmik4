@@ -22,11 +22,12 @@
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" height="35"/>
 
  <br><br>
-
+<!---
 ### My GitHub Stats :
 ![Pankaj Dharmik's GitHub stats](https://github-readme-stats.vercel.app/api?username=pankajdharmik4&show_icons=true&hide_border=true&theme=tokyonight&border_radius=30)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pankajdharmik4&show_icons=true&hide_border=true&theme=tokyonight&layout=compact&border_radius=30)
 <br/>
+--->
 <!---
 pankajdharmik4/pankajdharmik4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
